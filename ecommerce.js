@@ -1,1 +1,1 @@
-console.log ("selling and buying of goods and services")
+console.log ("lets merge together abeg")
