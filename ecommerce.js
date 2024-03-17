@@ -1,1 +1,1 @@
-console.log ("this is a ecommerce")
+console.log ("selling and buying of goods and services")
