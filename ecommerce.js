@@ -1,1 +1,1 @@
-console.log ("this is an ecommerce website")
+console.log ("this is a ecommerce")
